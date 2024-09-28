@@ -1,0 +1,129 @@
+<resources>
+    <string name="app_name">Waifu Collection</string>
+    <string name="content_description">content description</string>
+    <string name="name_waifu">name waifu</string>
+    <string name="description_waifu">description waifu</string>
+    <string name="check_wiki">anime waifu</string>
+    <string name="check_waifu_wiki">check waifu wiki</string>
+    <string name="watch_waifu_anime_mv_pv">watch anime</string>
+    <string name="tools_description">Greyhound divisively hello coldly wonderfully marginally far upon excludingGreyhound divisively hello coldly wonderfully marginally far upon excludingGreyhound divisively hello coldly wonderfully marginally far upon excludingGreyhound divisively hello coldly wonderfully marginally far upon excluding</string>
+    <string name="secondary_text">Secondary text</string>
+    <string name="title_goes_here">Title goes here</string>
+    <string name="riko_adi_ranasmita">RIKO ADI RANASMITA</string>
+    <string name="email">radi60372@gmail.com</string>
+    <string name="anime">Anime :</string>
+    <string name="solitary_princess_alya_princess_alisa">Solitary Princess, Alya, Princess Alisa</string>
+    <string name="birth_date">Birth Date:</string>
+    <string name="november_7th">November 7th</string>
+    <string name="age">Age:</string>
+    <string name="_16">16</string>
+    <string name="description">Description:</string>
+    <string name="profile_image">Profile Image</string>
+    <string name="john_doe">John Doe</string>
+    <string name="john_doe_example_com">john.doe@example.com</string>
+    <string name="maria_mikhailovna_kujou">Maria Mikhailovna Kujou</string>
+
+    <string-array name="name_waifu_array">
+        <item>hitori gotoh</item>
+        <item>Maria Mikhailovna Kujou</item>
+        <item>Alisa Mikhailovna Kujou</item>
+        <item>Yuki Suou</item>
+        <item>Nonoa Miyamae</item>
+        <item>Anna Yanami</item>
+        <item>Chika Komari</item>
+        <item>Yumeko Shikiya</item>
+        <item>Tiara Basori</item>
+        <item>Ikuyo Kita</item>
+    </string-array>
+
+    <string-array name="anime_waifu_array">
+        <item>Bocchi the Rock</item>
+        <item>Roshidere</item>
+        <item>Roshidere</item>
+        <item>Roshidere</item>
+        <item>Roshidere</item>
+        <item>Makeine: Make Heroine ga Oosugiru!</item>
+        <item>Makeine: Make Heroine ga Oosugiru!</item>
+        <item>Makeine: Make Heroine ga Oosugiru!</item>
+        <item>Makeine: Make Heroine ga Oosugiru!</item>
+        <item>Bocchi the Rock</item>
+    </string-array>
+
+    <string-array name="description_waifu_array">
+        <item>Hitori Gotoh (後ご藤とう ひとり Gotō Hitori), an extremely timid and introverted first-year student in high school often referred by her bandmates as Bocchi-chan (ぼっちちゃん),[2] is the titular main protagonist of the manga and anime series, Bocchi the Rock!. She is in the first year of Shuka High School and is in charge of the guitar and lyrics of the band, Kessoku Band. She aspires to perform in a band that could showcase even a reserved girl\'s talent, hence she began playing the guitar. Although her skill is the real deal, she struggles to exhibit it proficiently in a band or in front of an audience.</item>
+        <item>Maria Mikhailovna Kujou (マリア・ミハイロヴナ・九条くじょう Maria Mihairovuna Kujō? ; Russian:  Мария Михайловна Кудзё), also known as Masha (マーシャ Māsha? ; Russian:  Маша), is one of the main characters in the series. She is a second-year student at Seiren Private Academy, serving as Secretary of the student council. Maria is widely regarded as one of the two most beautiful girls in her grade, alongside Chisaki Sarashina, and is known as the Madonna (学園の聖母マドンナ Gakuen no SeiboMadonna?, lit. "Academy's Madonna" ).</item>
+        <item>Alisa Mikhailovna Kujou (アリサ・ミハイロヴナ・九条くじょう Arisa Mihairovuna Kujō? ; Russian:  Алиса Михайловна Кудзё), also known as Alya (アーリャ Ārya? ; Russian:  Аля), is the main female protagonist and the titular protagonist of the series. She is a first-year student at Seiren Private Academy. Alisa is an honor student with the highest grades in the school and serves as the Treasurer for the student council. She is widely regarded as one of the two most beautiful girls in her grade, alongside Yuki Suou, and is known as the Solitary Princess (孤高のお姫様 Kokō no Ohimesama? ).</item>
+        <item>Yuki Suou (周防すおう 有希ゆき Suō Yuki? ) is one of the main characters in the series. She is a first-year student at Seiren Private Academy, serving as the Public Relations officer for the student council. Yuki is widely regarded as one of the two most beautiful girls in her grade, alongside Alisa Mikhailovna Kujou, and is known as the Noble Princess (深窓のおひい様 Shinsō no Ohī-sama? ).</item>
+        <item>Nonoa Miyamae (宮前みやまえ 乃々亜ののあ Miyamae Nonoa? ) is a supporting character in the series. She is a first-year student at Seiren Private Academy. Nonoa works as a model for the brand owned by her parents. She has been best friends with Sayaka Taniyama since childhood.</item>
+        <item>Anna Yanami (八奈見 杏菜, Yanami Anna) is one of the main characters of Too Many Losing Heroines! series as well as one of the titular "Losing Heroines". She\'s a first-year student of Class 1-C at Tsuwabuki High School and also a member of the Literature Club. She has romantic feelings for her childhood friend and classmate Sõsuke Hakamada, and is the best friend of his girlfriend Karen Himemiya.</item>
+        <item>Chika Komari (小鞠知花, Komari Chika) is one of the main characters of Too Many Losing Heroines! series as well as one of the titular "Losing Heroines". She\'s a first-year student of Tsuwabuki High School at the beginning of the story and the current Vice-President of the Literature Club. She has romantic feelings for the former Literature Club President Shintaro Tamaki and is close friends with the former Vice-President Koto Tsukinoki.</item>
+        <item>Yumeko Shikiya (志喜屋 夢子, Shikiya Yumeko) is a supporting character of Too Many Losing Heroines! series. She\'s a second-year student at Tsuwabuki High School and also the current Secretary of the Tsuwabuki High School Student Council.</item>
+        <item>Tiara Basori (馬剃 天愛星, Basori Tiara; sometimes mistranslated as Basori Teiara) is a supporting character of Too Many Losing Heroines! series. In her debut, she\'s introduced as a first-year student of the Tsuwabuki High School and also the Vice-President of the Student Council.</item>
+        <item>Ikuyo Kita (喜き多た 郁いく代よ Kita Ikuyo) is one of the main characters in the manga and anime series, Bocchi the Rock!. She is in the first year of Shuka High School and is in charge of the guitar and vocals of the band, Kessoku Band. She started admiring Ryo Yamada after seeing her street concert.</item>
+    </string-array>
+
+    <string-array name="waifu_wiki_array">
+        <item>https://bocchi-the-rock.fandom.com/wiki/Hitori_Gotoh</item>
+        <item>https://roshidere.fandom.com/wiki/Maria_Mikhailovna_Kujou</item>
+        <item>https://roshidere.fandom.com/wiki/Alisa_Mikhailovna_Kujou</item>
+        <item>https://roshidere.fandom.com/wiki/Yuki_Suou</item>
+        <item>https://roshidere.fandom.com/wiki/Nonoa_Miyamae</item>
+        <item>https://makeine.fandom.com/wiki/Anna_Yanami</item>
+        <item>https://makeine.fandom.com/wiki/Chika_Komari</item>
+        <item>https://makeine.fandom.com/wiki/Yumeko_Shikiya</item>
+        <item>https://makeine.fandom.com/wiki/Tiara_Basori</item>
+        <item>https://bocchi-the-rock.fandom.com/wiki/Ikuyo_Kita</item>
+    </string-array>
+
+    <string-array name="watch_anime_array">
+        <item>https://www.youtube.com/channel/UC6IhDHJbJUoRJGUPnlh5GRQ</item>
+        <item>https://www.youtube.com/watch?v=C1PVPpUxzCM&amp;list=PLxSscENEp7Jj-LKKsOzrbDe7b8sSg37gz</item>
+        <item>https://www.youtube.com/watch?v=C1PVPpUxzCM&amp;list=PLxSscENEp7Jj-LKKsOzrbDe7b8sSg37gz</item>
+        <item>https://www.youtube.com/watch?v=C1PVPpUxzCM&amp;list=PLxSscENEp7Jj-LKKsOzrbDe7b8sSg37gz</item>
+        <item>https://www.youtube.com/watch?v=C1PVPpUxzCM&amp;list=PLxSscENEp7Jj-LKKsOzrbDe7b8sSg37gz</item>
+        <item>https://youtu.be/4hNkfpYhFZc?si=29CK3CWsZelbWr2y</item>
+        <item>https://youtu.be/4hNkfpYhFZc?si=29CK3CWsZelbWr2y</item>
+        <item>https://youtu.be/4hNkfpYhFZc?si=29CK3CWsZelbWr2y</item>
+        <item>https://youtu.be/4hNkfpYhFZc?si=29CK3CWsZelbWr2y</item>
+        <item>https://www.youtube.com/channel/UC6IhDHJbJUoRJGUPnlh5GRQ</item>
+    </string-array>
+
+    <string-array name="image_waifu_array">
+        <item>@drawable/hitori</item>
+        <item>@drawable/masha</item>
+        <item>@drawable/alya</item>
+        <item>@drawable/yuki</item>
+        <item>@drawable/nonoa</item>
+        <item>@drawable/yana</item>
+        <item>@drawable/komari</item>
+        <item>@drawable/shikiya</item>
+        <item>@drawable/tiara</item>
+        <item>@drawable/kita</item>
+    </string-array>
+
+    <string-array name="waifu_birthday">
+        <item>February, 21</item>
+        <item>December, 24</item>
+        <item>November, 07</item>
+        <item>March, 12</item>
+        <item>May, 13</item>
+        <item>November, 29</item>
+        <item>March, 29</item>
+        <item>N/A</item>
+        <item>N/A</item>
+        <item>April, 21</item>
+    </string-array>
+
+    <string-array name="waifu_age">
+        <item>15</item>
+        <item>16</item>
+        <item>16</item>
+        <item>15</item>
+        <item>16</item>
+        <item>15</item>
+        <item>15</item>
+        <item>17</item>
+        <item>16</item>
+        <item>15</item>
+    </string-array>
+</resources>
